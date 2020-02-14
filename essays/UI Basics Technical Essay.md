@@ -1,7 +1,7 @@
 ---
 layout: essay 
 type: essay
-title: Why I decided to major in MIS
+title: UI Basics Technical Essay
 date: 2020-02-14
 ---
 Browser History 1
