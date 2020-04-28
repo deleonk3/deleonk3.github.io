@@ -2,7 +2,7 @@
 layout: essay 
 type: essay
 title: Progress in Programming Report 
-date: 04-24-2020
+date: 2020-04-24
 ---
 
 Now that we are almost at the end of the semester I can confidently say that my programming skills have greatly improved.
