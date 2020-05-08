@@ -1,7 +1,7 @@
 ---
 layout: essay 
 type: essay
-title: Progress in Programming Report 
+title: Reflecting on Assignment 2
 date: 2020-05-08
 ---
 Assignment 2 focused on building both a login page for our and a registritaion page for our ecommerce website. We had to build our website in a way where 
